@@ -23,7 +23,7 @@ Facial recognition is widely used in authentication and identity verification, b
 ---
 
 ## Dataset
-The study uses the **CelebA** dataset, which includes:
+The study uses the **CelebA** dataset (https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html), which includes:
 - **10,177 identities**
 - **202,599 aligned face images**
 - **5 facial landmark locations** per image
