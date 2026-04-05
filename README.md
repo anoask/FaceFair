@@ -114,17 +114,17 @@ The original report’s identity-labeling table and grouped accuracy results are
 
 ## Visual Results
 ### Men vs. women ROC / DET behavior
-![Men ROC curve](images/page004_img001.png)
-![Men DET curve](images/page004_img002.png)
-![Women ROC and DET curves](images/page004_img003.png)
+![Men ROC curve](images/page004-img001.png)
+![Men DET curve](images/page004-img002.png)
+![Women ROC and DET curves](images/page004-img003.png)
 
 ### Men with facial hair vs. no facial hair
-![Men with facial hair ROC/DET](images/page005_img001.png)
-![Men with no facial hair ROC/DET](images/page005_img002.png)
+![Men with facial hair ROC/DET](images/page005-img001.png)
+![Men with no facial hair ROC/DET](images/page005-img002.png)
 
 ### Women with heavy makeup vs. no makeup
-![Women with heavy makeup ROC/DET](images/page006_img001.png)
-![Women without heavy makeup ROC/DET](images/page006_img002.png)
+![Women with heavy makeup ROC/DET](images/page006-img001.png)
+![Women without heavy makeup ROC/DET](images/page006-img002.png)
 
 ---
 
